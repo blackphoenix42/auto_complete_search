@@ -23,7 +23,7 @@
 - Clone this repository remotely.
 
 ```
-git clone https://github.com/blackphoenix42/autocomplete_search.git`
+git clone https://github.com/blackphoenix42/autocomplete_search.git
 ```
 
 ## 🚀 How to Contribute to Project?
