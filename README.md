@@ -1,10 +1,10 @@
 <div align="center">
 
-![Issues](https://img.shields.io/github/issues/blackphoenix42/template_repo)
-![Pull Requests](https://img.shields.io/github/issues-pr/blackphoenix42/template_repo)
-![Forks](https://img.shields.io/github/forks/blackphoenix42/template_repo)
-![Stars](https://img.shields.io/github/stars/blackphoenix42/template_repo)
-[![License](https://img.shields.io/github/license/blackphoenix42/template_repo)](https://github.com/blackphoenix42/template_repo/blob/master/LICENSE)
+![Issues](https://img.shields.io/github/issues/blackphoenix42/autocomplete_search)
+![Pull Requests](https://img.shields.io/github/issues-pr/blackphoenix42/autocomplete_search)
+![Forks](https://img.shields.io/github/forks/blackphoenix42/autocomplete_search)
+![Stars](https://img.shields.io/github/stars/blackphoenix42/autocomplete_search)
+[![License](https://img.shields.io/github/license/blackphoenix42/autocomplete_search)](https://github.com/blackphoenix42/autocomplete_search/blob/master/LICENSE)
 
 <img alt="LOGO" src="" width=250 height=250>
 
@@ -23,20 +23,13 @@
 - Clone this repository remotely.
 
 ```
-git clone https://github.com/blackphoenix42/template_repo.git`
+git clone https://github.com/blackphoenix42/autocomplete_search.git`
 ```
-
-# To Edit:
-
-- Replace `template_repo` in `.github/config.yml` with your repository name.
-- Also, replace `template_repo` in `./README.md`
-- You are good to go! 🥳
 
 ## 🚀 How to Contribute to Project?
 
-- Take a look at the Existing [Issues](https://github.com/blackphoenix/template_repo/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/blackphoenix/autocomplete_search/issues) or create your own Issues!
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
-- Start contributing to get featured in README.md
 
 ## 👾 Project Admin
 
