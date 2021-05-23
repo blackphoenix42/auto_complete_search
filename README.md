@@ -48,7 +48,7 @@ npm start
 
 ## 🚀 How to Contribute to Project?
 
-- Take a look at the Existing [Issues](https://github.com/blackphoenix/autocomplete_search/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/blackphoenix42/autocomplete_search/issues) or create your own Issues!
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 👾 Project Admin
