@@ -18,7 +18,7 @@
 
 # About
 
-An auto-complete search bar that uses [remote API](https://reqres.in/) to give a response to AJAX requests.
+An auto-complete search bar that uses [remote API](https://reqres.in/) to give a response of AJAX requests.
 
 <div align="center">
 	<img src="./.github/assets/search.gif" alt="Search.gif" width="50%">
